@@ -1,2 +1,3 @@
 # RI_2018.1
-Repositório para a disciplina Recuperação da Informação e Busca na Web
+
+Repositório com Labs para a disciplina Recuperação da Informação e Busca na Web.
